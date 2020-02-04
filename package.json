@@ -1,6 +1,6 @@
 {
   "name": "order-sum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "淘宝订单汇总工具",
   "main": "src/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com"
+    "url": "https://github.com/wbenxin/order-sum"
   },
   "keywords": [
     "淘宝",
