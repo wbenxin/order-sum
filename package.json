@@ -1,0 +1,27 @@
+{
+  "name": "order-sum",
+  "version": "1.0.0",
+  "description": "淘宝订单汇总工具",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "bin": {
+    "order-sum": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com"
+  },
+  "keywords": [
+    "淘宝",
+    "淘宝订单",
+    "订单汇总"
+  ],
+  "author": "benxin@126.com",
+  "license": "MIT",
+  "dependencies": {
+    "iconv-lite": "^0.5.1",
+    "node-xlsx": "^0.15.0"
+  }
+}
