@@ -1,6 +1,6 @@
 {
   "name": "order-sum",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "淘宝订单汇总工具",
   "main": "index.js",
   "scripts": {
