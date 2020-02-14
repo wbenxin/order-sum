@@ -2,17 +2,18 @@
   "name": "order-sum",
   "version": "1.0.1",
   "description": "淘宝订单汇总工具",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node index.js"
   },
   "bin": {
-    "order-sum": "src/index.js"
+    "order-sum": "index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wbenxin/order-sum"
+    "url": "git+https://github.com/wbenxin/order-sum.git"
   },
+  "homepage": "https://github.com/wbenxin/order-sum#readme",
   "keywords": [
     "淘宝",
     "淘宝订单",
